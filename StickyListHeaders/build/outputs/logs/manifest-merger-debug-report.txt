@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:3:5-49
+		INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml
+		INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:5:5-30
+		INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml
+		INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:4:5-28
+		INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml
+		INJECTED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml
+uses-sdk
+ADDED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from C:\projects\magic-8-ball-android-vvklr\StickyListHeaders\AndroidManifest.xml:7:15-44

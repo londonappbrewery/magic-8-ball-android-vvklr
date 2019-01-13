@@ -1,0 +1,4 @@
+#Tue Jan 08 21:33:18 IST 2019
+base.0=C\:\\projects\\magic-8-ball-android-vvklr\\UIAppTemplate\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
